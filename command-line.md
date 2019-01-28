@@ -1,7 +1,6 @@
-### January 28, 2019
----
+#### January 28, 2019
 
-#### Tricks
+**Tricks**
 - Sort items in a file alphabetically using the SORT command in Linux/Unix terminal with the simple command below 
     ```
     sort path/to/file.ext
