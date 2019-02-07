@@ -4,12 +4,6 @@
 **Definitions**
 - Declarative and Imperative Programming (thanks to @Dikaeinstein)
     - Declarative Programming
-      `A programming paradigm … that expresses the log#### February 1, 2019
----
-
-**Definitions**
-- Declarative and Imperative Programming (thanks to @Dikaeinstein)
-    - Declarative Programming
       `A programming paradigm … that expresses the logic of a computation without describing its control flow` i.e. says what is wanted without saying how to get it e.g CSS, HTML, some parts of SQL (SELECT especially since the dev does not know how the system produces the data).
       
       For part of the program to be more declarative, other parts must provide the abstraction to hide the implementation details (which are the imperative codes) - @engineforce on StackOverflow.
