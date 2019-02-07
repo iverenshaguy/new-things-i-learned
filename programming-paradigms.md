@@ -13,11 +13,13 @@
     - Imperative Programming
       `A programming paradigm that uses statements that change a program’s state` i.e. provides the step by step approach to get what is wanted.
       
+      Procedural and object-oriented programming are subsets of imperative programming.
+      
     e.g (as gotten from [StackOverflow](https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-programming))
     
     ![declarative-vs-imperative-example](https://github.com/iverenshaguy/new-things-i-learned/blob/master/images/Screenshot%202019-02-07%20at%207.02.35%20PM.png)
     
-  There are 4 main programming paradigms (declarative, imperative, functional and object oriented).
+  Declarative, Imperative, Functional, Procedural and Object Oriented programming are types of programming paradigms.
   
   I mainly used these posts and StackOverflow questions to get a good understanding.
 
