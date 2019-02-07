@@ -21,4 +21,4 @@
 
     - [https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2) - Ian Mundy
     - [https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-programming](https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-programming)
-    
+    - [https://tylermcginnis.com/imperative-vs-declarative-programming/](https://tylermcginnis.com/imperative-vs-declarative-programming/) - Tyler McGinnis
