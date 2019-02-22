@@ -1,7 +1,6 @@
-#### Table of Contents
+[Declarative and Imperative Programming](#declarative-and-imperative-programming)
 
-* [Declarative and Imperative Programming](#declarative-and-imperative-programming)
-* [JAMStack](#jamstack)
+[JAMStack](#jamstack)
 
 #### February 1, 2019
 
