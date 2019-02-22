@@ -44,3 +44,7 @@ ic of a computation without describing its control flow` i.e. says what is wante
     - [https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2) - Ian Mundy
     - [https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-programming](https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-programming)
     - [https://tylermcginnis.com/imperative-vs-declarative-programming/](https://tylermcginnis.com/imperative-vs-declarative-programming/) - Tyler McGinnis
+    
+    
+- JAMStack (https://jamstack.org/)
+Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
